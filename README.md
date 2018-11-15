@@ -3,3 +3,4 @@ This repository includes some costumed or improved UI Components and Plugins whi
 ## Radio and Checkbox
 Most of radios and checkboxs based on Bootstrap can't be customed easily, this type radio/checkbox can allow users click them just like normal buttons, developers can easily style them via change label's style.
 ![radio and checkbox](/img/radio-and-checkbox.png)
+<img src="/img/radio-and-checkbox.png" width="50%" height="50%">
