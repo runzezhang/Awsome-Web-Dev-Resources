@@ -27,13 +27,18 @@ Most of radios and checkboxs based on Bootstrap can't be customed easily, this t
 The US Phone number like (111)222-3333 is easier to reconginza. This JS and PHP Function can help developer quick format phone number.
 
 <img src="/img/phone-format.png" width="80%" height="80%"/>
+
 ### JS Function
+
 1. HTML Code
+
 ```
 <label>Phone</label>
 <input class="form-control phone" name="phone" type="text" required="true" />
 ```
+
 2. JS Code
+
 ```
 $(function () {
         PhoneInput();
@@ -71,7 +76,9 @@ $(function () {
         });
     }
 ```
+
 ### PHP Function
+
 ```
 class FormatPhoneNumber{
 public function format($phoneNumber) {
@@ -104,5 +111,8 @@ public function format($phoneNumber) {
     
 }
 ```
+
 ### Source Code
+
 [Phone Format](/source/phone-format)
+
