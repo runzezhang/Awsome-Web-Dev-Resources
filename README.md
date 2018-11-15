@@ -28,4 +28,4 @@ When user inputing blog/news' title, slug will generate automatically.
 
 ### Source Code
 
-[Phone Format with JS and PHP](/source/slug.html)
+[Title Slug](/source/slug.html)
