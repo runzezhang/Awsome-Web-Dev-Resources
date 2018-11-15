@@ -16,7 +16,7 @@ Most of radios and checkboxs based on Bootstrap can't be customed easily, this t
 ### Source Code
 [Radio and Checkbox](/source/radio-and-checkbox.html)
 ## Phone Number Format
-The US Phone number like (111)222-3333 is easier to reconginza. This JS / PHP Function can help developer quick format phone number.
+The US Phone number like (111)222-3333 is easier to reconginza. This JS and PHP Function can help developer quick format phone number.
 <img src="/img/phone-format.png" width="80%" height="80%">
 ### JS Function
 1. HTML Code
