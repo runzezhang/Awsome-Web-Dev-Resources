@@ -29,3 +29,5 @@ When user inputing blog/news' title, slug will generate automatically.
 ### Source Code
 
 [Title Slug](/source/slug.html)
+
+Plan to update an menu format
