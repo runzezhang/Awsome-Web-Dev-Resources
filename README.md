@@ -1,4 +1,4 @@
-# Awsome UI Tools 原创/改进 Web Dev UI 组件 
+# Awsome UI Component 原创/改进 Web Dev UI 组件 
 This repository includes some costumed or improved UI Components and Plugins which are not covered by standard frameworks , most of them based on Bootstrap 3/4 and PHP Laravel 5.5. Some of them are improved based on some previous authors, we will credit below, please contact us if you find missing someone. 
 ## 1. Radio and Checkbox 自主定制多选/单选按钮 (HTML, CSS)
 Most of radios and checkboxs based on Bootstrap can't be customed easily, this type radio/checkbox can allow users click them just like normal buttons, developers can easily style them via change label's style.
