@@ -1,5 +1,5 @@
 # Awsome Web Development Resource
-This repositories contains resources we recommand or used during our development process. Feel free to contact us to add what you like.
+This repositories contains resources we recommand or used during our development process. Feel free to contact us to add what you like.Web开发资源推荐
 ## Build by Our Own 原创/改进
 ### [Awsome UI Components UI组件](https://github.com/DataLeoZ/Awsome-UI-Components)
 - Radio and Checkbox 自主定制多选/单选按钮 
