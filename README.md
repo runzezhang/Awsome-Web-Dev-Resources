@@ -16,7 +16,7 @@ Vue.js is an open-source JavaScript framework for building user interfaces and s
 ## Back-end Framework
 ### [Laravel](https://laravel.com/)
 Laravel is a free, open-source PHP web framework<br>
-优雅PHP框架,可能是"唯一优雅"的
+优雅PHP框架,可能是"唯一优雅"的
 ### Node.js
 - Express (Basic)
 - Hexo ( For Blog 个人博客快速创建多定制化主题)
