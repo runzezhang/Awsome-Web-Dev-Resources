@@ -25,7 +25,7 @@ Laravel is a free, open-source PHP web framework<br>
 ## Plugin
 ### [WeGlot](https://weglot.com)
 Translation API that integrates seamlessly into your website and delivers it in any languages.<br>
-翻译API,多语言网站一次性创建
+翻译API,多语言网站一次性创建
 ### [Mailtrap](https://mailtrap.io/)
 Mailtrap is a fake SMTP server to test, view and share emails sent from the development and staging environments without spamming real customers.<br>
 邮件通讯服务
