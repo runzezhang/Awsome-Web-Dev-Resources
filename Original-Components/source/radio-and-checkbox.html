@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+        crossorigin="anonymous">
+    <title>Radio and Checkbox</title>
+    <style>
+        .check-label {
+        margin: 10px;
+        padding: 5px 10px;
+        border-color: #ccc;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        color: #ccc;
+        font-size: 16px;
+        text-align: center;
+        }
+        input[type="checkbox"]:checked+label.check-label{
+            border-color: #ce2828;
+            color: #ce2828;
+        }
+        .radio-label {
+            margin: 10px;
+            padding: 5px 0px;
+            border-color: #ccc;
+            border-style: solid;
+            border-width: 2px;
+            border-radius: 5px;
+            color: #ccc;
+            font-size: 16px !important;
+            width: 120px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        input[type="checkbox"]:checked+label.radio-label{
+            border-color: #ce2828;
+            color: #ce2828;
+        }
+        input[type="radio"]:checked+label.radio-label{
+            border-color: #ce2828;
+            color: #ce2828;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Checkbox -->
+    <label>
+        <input type="checkbox" id="tag-1" name="tag_1" value="1" style="display:none;">
+        <label class="check-label" for="tag-1">Tag Name 1</label>
+        <input type="checkbox" id="tag-2" name="tag_2" value="2" style="display:none;">
+        <label class="check-label" for="tag-2">Tag Name 2</label>
+        <input type="checkbox" id="tag-3" name="tag_3" value="3" style="display:none;">
+        <label class="check-label" for="tag-3">Tag Name 3</label>
+    </label>
+    <!-- Radio -->
+    <div>
+        <div class="flex-div">
+            <input type="radio" id="level-0" name="level" value="0" style="display:none;" checked>
+            <label class="radio-label" for="level-0">None</label>
+            <input type="radio" id="level-1" name="level" value="1" style="display:none;">
+            <label class="radio-label" for="level-1">
+                1
+            </label>
+            <input type="radio" id="level-2" name="level" value="2" style="display:none;">
+            <label class="radio-label" for="level-2">
+                2
+            </label>
+            <input type="radio" id="level-3" name="level" value="3" style="display:none;">
+            <label class="radio-label" for="level-3">
+                3
+            </label>
+        </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
