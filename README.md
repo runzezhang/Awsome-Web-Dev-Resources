@@ -3,6 +3,11 @@ This repositories contains resources we recommand or used during our development
 Web日常开发资源积累推荐,前后端框架,UI主题组件,功能性插件模块. 欢迎添加推荐!
 
 [Original Components 原创/改进](#Original-Components-原创/改进)
+[Plugins](#Plugins)
+[Front-end frameworks](#Front-end-frameworks)
+[Back-end frameworks](#Back-end-frameworks)
+[UI Themes](#UI-Themes)
+
 ## Original Components 原创/改进
 ### UI Components UI组件
 This includes some costumed or improved UI Components and Plugins which are not covered by standard frameworks , most of them based on Bootstrap 3/4 and PHP Laravel 5.5. Some of them are improved based on some previous authors, we will credit below, please contact us if you find missing someone. 
@@ -19,34 +24,6 @@ The US Phone number like (111)222-3333 is easier to reconginze. This JS and PHP 
 When user inputing blog/news' title, slug will generate automatically.
 <img src="/img/slug.png" width="80%" height="80%"/>
 [Title Slug](/source/slug.html)
-
-## Front-end
-### [Bootstrap](https://getbootstrap.com/)
-Bootstrap is a free and open-source front-end Web framework.<br>
-开箱前端框架
-### [React](https://reactjs.org/)
-React is a JavaScript library for building user interfaces<br>
-组合组件单向数据流
-- ReactJS
-- [Redux](https://redux.js.org/) ( Managing application state 状态管理服务 )
-- [React Navigation](https://reactnavigation.org/) ( Routing and navigation 路由导航管理 )
-- [React Native](https://facebook.github.io/react-native/) ( writing real, natively rendering mobile applications for iOS and Android 跨平台应用 )
-### [Vue](https://vuejs.org/)
-Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
-### [Angular](https://angular.io/)
-Angular is a TypeScript-based open-source web application framework 
-
-## Back-end
-### [Laravel](https://laravel.com/)
-Laravel is a free, open-source PHP web framework<br>
-### Node.js
-- [Express](https://expressjs.com/)
-A web application framework for Node.js
-- [Hexo](https://hexo.io/) ( For Blog 个人博客快速创建多定制化主题)
-### Python
-- [Django](https://www.djangoproject.com/)
-### Ruby on Rails
-
 
 ## Plugins
 ### [WeGlot](https://weglot.com) [Laravel]
@@ -79,6 +56,36 @@ React Native Stripe binding for iOS/Android platforms
 A small library to provide the I18n translations on the Javascript. It comes with Rails support.
 ### [react-navigation-collapsible](https://github.com/benevbright/react-navigation-collapsible) [JS, React Native]
 React Navigation Extension for Collapsible Header. Make your header of react-navigation collapsible.
+
+## Front-end frameworks
+### [Bootstrap](https://getbootstrap.com/)
+Bootstrap is a free and open-source front-end Web framework.<br>
+开箱前端框架
+### [React](https://reactjs.org/)
+React is a JavaScript library for building user interfaces<br>
+组合组件单向数据流
+- ReactJS
+- [Redux](https://redux.js.org/) ( Managing application state 状态管理服务 )
+- [React Navigation](https://reactnavigation.org/) ( Routing and navigation 路由导航管理 )
+- [React Native](https://facebook.github.io/react-native/) ( writing real, natively rendering mobile applications for iOS and Android 跨平台应用 )
+### [Vue](https://vuejs.org/)
+Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
+### [Angular](https://angular.io/)
+Angular is a TypeScript-based open-source web application framework 
+
+## Back-end frameworks
+### [Laravel](https://laravel.com/)
+Laravel is a free, open-source PHP web framework<br>
+### Node.js
+- [Express](https://expressjs.com/)
+A web application framework for Node.js
+- [Hexo](https://hexo.io/) ( For Blog 个人博客快速创建多定制化主题)
+### Python
+- [Django](https://www.djangoproject.com/)
+### Ruby on Rails
+
+
+
 
 ## UI Themes
 ### [Premium Bootstrap Themes](https://www.creative-tim.com/)
