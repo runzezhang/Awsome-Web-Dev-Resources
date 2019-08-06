@@ -2,11 +2,11 @@
 This repositories contains resources we recommand or used during our development process. Feel free to contact us to add what you like. <br>
 Web日常开发资源积累推荐,前后端框架,UI主题组件,功能性插件模块. 欢迎添加推荐!
 
-[Original Components 原创/改进](#Original-Components-原创/改进)
-[Plugins](#Plugins)
-[Front-end frameworks](#Front-end-frameworks)
-[Back-end frameworks](#Back-end-frameworks)
-[UI Themes](#UI-Themes)
+- [Original Components 原创/改进](#Original-Components-原创/改进)
+- [Plugins](#Plugins)
+- [Front-end frameworks](#Front-end-frameworks)
+- [Back-end frameworks](#Back-end-frameworks)
+- [UI Themes](#UI-Themes)
 
 ## Original Components 原创/改进
 ### UI Components UI组件
