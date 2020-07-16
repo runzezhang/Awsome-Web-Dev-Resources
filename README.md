@@ -34,6 +34,9 @@ Angular is a TypeScript-based open-source web application framework
 
 ## Plugins
 ### Common
+- [D3](https://github.com/d3/d3) D3 (or D3.js) is a JavaScript library for visualizing data using web standards
+- [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library 
+- [animate.css](https://github.com/animate-css/animate.css) 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing
 - [husky](https://github.com/typicode/husky) Git Hooks
 - [qiankun](https://github.com/umijs/qiankun) 📦 🚀 Blazing fast, simple and completed solution for micro frontends
 - [LozadJS](https://github.com/ApoorvSaxena/lozad.js) Highly performant, light and configurable lazy loader in pure JS, using IntersectionObserver API
@@ -78,9 +81,6 @@ Back-end for Front-end & Node
 
 ## Plugins
 ### Common
-- [D3](https://github.com/d3/d3) D3 (or D3.js) is a JavaScript library for visualizing data using web standards
-- [three.js](https://github.com/mrdoob/three.js) JavaScript 3D library 
-- [animate.css](https://github.com/animate-css/animate.css) 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing
 - [Mailtrap](https://mailtrap.io/) Mailtrap is a fake SMTP server to test, view and share emails sent from the development and staging environments without spamming real customers
 - [Twilio](https://www.twilio.com) Cloud communications platform
 - [HERE](https://www.here.com/)  
